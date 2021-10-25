@@ -68,6 +68,7 @@ https://www.spamhaus.org/drop/
 https://www.spamhaus.org/drop/drop.txt
 https://www.blocklist.de/en/index.html
 https://lists.blocklist.de/lists/all.txt
+https://danger.rulez.sk/projects/bruteforceblocker/blist.php
 
 Tools
 https://github.com/NewBee119/Ti_Collector
@@ -160,4 +161,6 @@ https://www.sentinelone.com/blog/
 
 Misc
 https://www.senki.org/operators-security-toolkit/open-source-threat-intelligence-feeds/
+https://github.com/TW-NCERT/ctifeeds
+https://github.com/certtools/intelmq-feeds-documentation
 https://www.malwarepatrol.net/enterprise-threat-data-malicious-ips/
