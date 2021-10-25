@@ -66,6 +66,9 @@ https://www.scumware.org/
 https://www.shadowserver.org/
 https://www.spamhaus.org/drop/
 https://www.spamhaus.org/drop/drop.txt
+https://www.spamhaus.org/drop/edrop.txt
+https://www.spamhaus.org/drop/dropv6.txt
+https://www.spamhaus.org/drop/asndrop.txt
 https://www.blocklist.de/en/index.html
 https://lists.blocklist.de/lists/all.txt
 https://danger.rulez.sk/projects/bruteforceblocker/blist.php
@@ -164,3 +167,4 @@ https://www.senki.org/operators-security-toolkit/open-source-threat-intelligence
 https://github.com/TW-NCERT/ctifeeds
 https://github.com/certtools/intelmq-feeds-documentation
 https://www.malwarepatrol.net/enterprise-threat-data-malicious-ips/
+https://awesomeopensource.com/project/Graylog2/graylog-plugin-threatintel?ref=reddit
