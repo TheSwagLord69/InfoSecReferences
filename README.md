@@ -1,4 +1,4 @@
 # InfoSecReferences
-Collation of online sources and tools for reference
+Collation of online sources, feeds, services and tools for reference
 
 Compilation updated infrequently
