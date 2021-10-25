@@ -9,6 +9,7 @@ https://github.com/MISP/misp-galaxy
 https://attack.mitre.org/
 https://www.mandiant.com/resources/apt-groups
 https://www.anomali.com/blog/weekly-threat-briefing-apt-group-cobalt-covid-19-ransomware-and-more
+https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#
 
 
 Reports:
@@ -35,6 +36,7 @@ https://www.bitpipe.com/data/search.action?q=APT&dt=white+papers
 
 Feeds/Lists of Actionable Items (IOCs)
 https://threatview.io/
+https://urlhaus.abuse.ch/browse/
 https://threatfox.abuse.ch/browse/
 https://github.com/mandiant/iocs
 https://github.com/sophoslabs/IoCs
@@ -52,9 +54,20 @@ https://github.com/carbonblack/active_c2_ioc_public
 https://github.com/cyberark/malware-research
 https://github.com/ProIntegritate/IOCs-Daily
 https://github.com/blackorbird/APT_REPORT
+https://github.com/pallebone/StrictBlockPAllebone
 https://db.aa419.org/fakebankslist.php
 https://www.dshield.org/ipsascii.html
-
+https://www.malwaredomainlist.com/mdl.php
+https://openphish.com/
+https://www.phishtank.com/phish_archive.php
+https://www.projecthoneypot.org/list_of_ips.php
+https://riskdiscovery.com/honeydb/#threats
+https://www.scumware.org/
+https://www.shadowserver.org/
+https://www.spamhaus.org/drop/
+https://www.spamhaus.org/drop/drop.txt
+https://www.blocklist.de/en/index.html
+https://lists.blocklist.de/lists/all.txt
 
 Tools
 https://github.com/NewBee119/Ti_Collector
@@ -147,3 +160,4 @@ https://www.sentinelone.com/blog/
 
 Misc
 https://www.senki.org/operators-security-toolkit/open-source-threat-intelligence-feeds/
+https://www.malwarepatrol.net/enterprise-threat-data-malicious-ips/
