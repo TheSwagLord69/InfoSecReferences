@@ -1,6 +1,7 @@
 # InfoSecReferences
 Collation of online sources, feeds, services and tools for reference\
 This repo aims to be a complilation of useful links related to cyber security\
+Email me to suggest sources to add or classified differently\
 Compilation is updated infrequently
 
 [Threat Intelligence](https://github.com/TheSwagLord69/InfoSecReferences/blob/main/References/Threat%20Intelligence)\
@@ -13,5 +14,3 @@ Compilation is updated infrequently
 [Cheat Sheets](https://github.com/TheSwagLord69/InfoSecReferences/blob/main/References/Cheat%20Sheets)\
 [Antivirus](https://github.com/TheSwagLord69/InfoSecReferences/blob/main/References/Antivirus)\
 [Learning Resources](https://github.com/TheSwagLord69/InfoSecReferences/blob/main/References/Learning%20Resources)
-
-Email me to suggest sources to add or classified differently
