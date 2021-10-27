@@ -1,5 +1,5 @@
 # InfoSecReferences
-Collation of online sources, feeds, services and tools for reference
-This repo aims to be a complilation of useful links for security 
+Collation of online sources, feeds, services and tools for reference\
+This repo aims to be a complilation of useful links related to cyber security\
 
-Compilation updated infrequently
+Compilation is updated infrequently
