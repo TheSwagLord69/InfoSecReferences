@@ -107,6 +107,10 @@ https://github.com/360netlab/DGA
 http://www.nothink.org/
 https://blackkite.com/community/
 https://novasense-threats.com/using/lists
+https://openphish.com/phishing_feeds.html
+https://rescure.me/feeds.html
+https://report.cs.rutgers.edu/mrtg/drop/dropstat.cgi?start=-86400
+https://isc.sans.edu/suspicious_domains.html
 
 
 Whitelist
@@ -126,6 +130,7 @@ https://certstream.calidog.io/
 Yara Rules
 https://github.com/SupportIntelligence/Icewater
 https://github.com/InQuest/awesome-yara
+https://github.com/Neo23x0/signature-base
 
 
 Analysis Blogs / Sense making / Technical Analysis
