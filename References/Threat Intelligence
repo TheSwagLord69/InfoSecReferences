@@ -11,6 +11,7 @@ https://www.mandiant.com/resources/apt-groups
 https://www.anomali.com/blog/weekly-threat-briefing-apt-group-cobalt-covid-19-ransomware-and-more
 https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#
 https://apt.securelist.com/
+https://www.exploitalert.com/
 
 
 Reports:
@@ -74,11 +75,25 @@ https://www.blocklist.de/en/index.html
 https://lists.blocklist.de/lists/all.txt
 https://danger.rulez.sk/projects/bruteforceblocker/blist.php
 https://github.com/Hariharann8175/Indicators-of-Compromise-IOC-
+https://www.binarydefense.com/banlist.txt
+https://www.botvrij.eu/data/
+http://cinsscore.com/list/ci-badguys.txt
+https://dataplane.org/
+https://osint.digitalside.it/
+https://osint.digitalside.it/Threat-Intel/lists/latesturls.txt
+https://osint.digitalside.it/Threat-Intel/lists/latestips.txt
+https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+http://rules.emergingthreats.net/fwrules/
 
 
 Tools
 https://github.com/NewBee119/Ti_Collector
 https://github.com/PaloAltoNetworks/ioc-parser
+
+
+SSL Cert
+https://www.ccssforum.org/malware-certificates.php
+https://certstream.calidog.io/
 
 
 Analysis Blogs / Sense making / Technical Analysis
@@ -135,6 +150,7 @@ https://documents.trendmicro.com/assets/Tech-Brief-Latest-Spam-Campaigns-from-TA
 https://www.welivesecurity.com/2021/09/23/famoussparrow-suspicious-hotel-guest/
 https://www.cyberbit.com/blog/endpoint-security/dtrack-apt-malware-found-in-nuclear-power-plant/
 https://blog.talosintelligence.com/2017/09/avast-distributes-malware.html
+https://www.malwaretech.com/
 
 
 Misc
@@ -146,3 +162,4 @@ https://www.malwarepatrol.net/enterprise-threat-data-malicious-ips/
 https://awesomeopensource.com/project/Graylog2/graylog-plugin-threatintel?ref=reddit
 https://github.com/hslatman/awesome-threat-intelligence
 https://github.com/Kirtar22/Litmus_Test
+http://s3-us-west-1.amazonaws.com/umbrella-static/index.html
