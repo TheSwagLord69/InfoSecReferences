@@ -15,7 +15,11 @@ https://blackkite.com/community/
 https://novasense-threats.com/
 https://threatfeeds.io/
 https://www.threatminer.org/
+https://opentip.kaspersky.com/
 https://ti.360.net/#/homepage
+https://polyswarm.network/
+https://pulsedive.com/
+https://securitytrails.com/#search
 https://cse.google.com/cse?cx=003248445720253387346:turlh5vi4xc
 
 
@@ -25,12 +29,17 @@ https://www.urlvoid.com/scan/
 https://dnschecker.org/ip-blacklist-checker.php
 https://www.barracudacentral.org/lookups/lookup-reputation
 https://www.akamai.com/us/en/clientrep-lookup/
+https://urlfiltering.paloaltonetworks.com/
+https://global.sitesafety.trendmicro.com/
 https://www.trustedsource.org/
 https://www.fortiguard.com/webfilter
 https://sitereview.bluecoat.com/
+https://safeweb.norton.com/
+https://www.brightcloud.com/tools/url-ip-lookup.php
 https://www.vicheck.ca/
 https://www.abuseipdb.com/
 http://www.voipbl.org/
+https://www.threatstop.com/check-ioc
 http://malc0de.com/database/
 https://www.malwaredomainlist.com/mdl.php
 https://www.abuse.ch/
@@ -50,6 +59,30 @@ https://isc.sans.edu/suspicious_domains.html
 https://iocbucket.com/
 https://github.com/abhinavbom/Threat-Intelligence-Hunter
 https://github.com/Yelp/threat_intel
+https://www.circl.lu/services/
+https://hashdd.com/
+https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test
+https://www.isithacked.com/
+
+
+Phishing Search
+https://phishtank.org/
+https://isitphishing.org/
+https://www.urlvoid.com/
+https://checkphish.ai/
+https://transparencyreport.google.com/safe-browsing/search?hl=en
+https://global.sitesafety.trendmicro.com/
+https://www.fortiguard.com/webfilter
+https://safeweb.norton.com/
+https://www.psafe.com/dfndr-lab/
+https://isc.sans.edu/
+https://www.circl.lu/urlabuse/
+https://www.threatcop.ai/phishing-url-checker.php
+https://grademyemail.co/email-blocklist-checker
+https://desenmascara.me/
+https://www.scamadviser.com/
+https://phishstats.info/
+https://scanurl.net/
 
 
 Feeds/Lists of (Actionable) IOCs
@@ -125,6 +158,7 @@ https://iocfeed.mrlooquer.com/
 https://github.com/mattulm/osint
 https://hole.cert.pl/domains/
 https://firebog.net/
+
 
 Feeds of Advertisements
 https://cdn.jsdelivr.net/gh/hackl0us/AdBlock-Rules-Mirror/AdGuard-Simplified-Domain-Names-Filter.txt
