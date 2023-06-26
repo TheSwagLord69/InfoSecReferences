@@ -14,3 +14,4 @@ Compilation is updated infrequently
 [Cheat Sheets](https://github.com/TheSwagLord69/InfoSecReferences/blob/main/References/Cheat%20Sheets)\
 [Antivirus](https://github.com/TheSwagLord69/InfoSecReferences/blob/main/References/Antivirus)\
 [Learning Resources](https://github.com/TheSwagLord69/InfoSecReferences/blob/main/References/Learning%20Resources)
+[Operational Security](https://github.com/TheSwagLord69/InfoSecReferences/blob/main/References/OpSec)
